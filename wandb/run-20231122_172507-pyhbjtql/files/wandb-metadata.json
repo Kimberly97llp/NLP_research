@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-11-22T22:25:10.265594",
+    "startedAt": "2023-11-22T22:25:07.876785",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "OneDrive/Desktop/FALL 2023/MIT 6.8610/NLP_research/research_project.ipynb",
+    "codePathLocal": null,
+    "root": "C:/Users/samch/OneDrive/Desktop/FALL 2023/MIT 6.8610/NLP_research",
+    "git": {
+        "remote": "git@github.com:Kimberly97llp/NLP_research.git",
+        "commit": "cbb6303bc43df8dfc98e33ff7e2a1f4710f4b94f"
+    },
+    "email": "m.sam@pucp.edu.pe",
+    "host": "msam",
+    "username": "samch",
+    "executable": "C:\\Users\\samch\\micromambaenv\\envs\\cs109a\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2300.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 457.22753524780273,
+            "used": 452.5209541320801
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.678764343261719
+    }
+}
