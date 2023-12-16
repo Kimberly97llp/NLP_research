@@ -70,4 +70,4 @@ Subsequently, the notebook responsible for evaluating the model on the test set 
 
 ### Paper
 
-The final paper can be found [here.](https://github.com/Kimberly97llp/NLP_research/blob/main/6_8610_Project_Proposal_ANNOTATED.pdf)
+The final paper can be found [here.](https://github.com/Kimberly97llp/NLP_research/blob/main/6_8610_Final_Paper.pdf)
